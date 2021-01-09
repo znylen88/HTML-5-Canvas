@@ -1,6 +1,6 @@
 # HTML-5-Canvas
 ### Canvas Drawing App using CanvasRenderingContext2D
-![](https://github.com/znylen88/HTML-5-Canvas/blob/main/Canvas-GIF.gif)
+![](Canvas-GIF.gif)
 ## Global Composite Operation:
 
 ctx.globalCompositeOperation = type;
