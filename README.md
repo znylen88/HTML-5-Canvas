@@ -1,5 +1,6 @@
 # HTML-5-Canvas
 ### Canvas Drawing App using CanvasRenderingContext2D
+![](https://gph.is/g/ajwNRvn)
 ## Global Composite Operation:
 
 ctx.globalCompositeOperation = type;
