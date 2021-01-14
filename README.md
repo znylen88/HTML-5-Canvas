@@ -1,5 +1,5 @@
 # HTML-5-Canvas
-### Canvas Drawing App using CanvasRenderingContext2D
+### Canvas Drawing App using CanvasRenderingContext2D:
 ![](https://media.giphy.com/media/A9ppmkoY52lOZOeGu3/giphy.gif)
 ## Global Composite Operation:
 
